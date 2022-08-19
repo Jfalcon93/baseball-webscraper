@@ -32,7 +32,6 @@ async function getUrls() {
       return playerUrls;
     });
     await playerUrls.forEach(async (url, i) => {
-      // To seed Profile comment out image code and change sql from img to profile and image to url
       let image = await axios.get(url).then(async ({ data }) => {
         const $ = await cheerio.load(data);
         let image = await $(
