@@ -36,3 +36,4 @@ To run the server
 
 - Fix update scripts to only use cheerio instead of this weird polymerization summoned monster we're using now.
 - Seeding script can probably handle everything instead of having to run two different scripts.
+- Properly name files. Why is there an index.js that isn't truly the index???
