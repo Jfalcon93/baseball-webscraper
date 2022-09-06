@@ -1,8 +1,8 @@
 ## baseball-webscraper
 
-Baseball webscraper created to seed a database of MVPs to build app.
+Baseball webscraper created to seed a database of MVPs.
 
-Thanks to the MLB being so stringent with their api access, I needed a way to collect MLB data to create web apps related to baseball (which I don't even really care about lolol).
+Thanks to the MLB for denying me api access, I needed a way to collect MLB data to create web apps related to baseball (which I don't even really care about lolol).
 
 MVP data contains relevant stats, link to their baseball reference profile, and link to image.
 
